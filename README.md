@@ -3,7 +3,7 @@
 
 # The Blue Book
 
-A follow along repo for the Donovan &amp; Kernighan Go programming language book. Or `The Blue Book` as its commonly referred as.
+A follow along repo for the Donovan &amp; Kernighan Go programming language book. Or `The Blue Book` as it's commonly referenced as.
 
 - [Chapter 01 - Tutorial and introduction](/src/ch01-tutorial)
 - [Chapter 02 - Program structure](/src/ch02-program-structure)
